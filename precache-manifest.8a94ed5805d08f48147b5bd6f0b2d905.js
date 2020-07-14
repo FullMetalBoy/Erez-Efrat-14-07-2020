@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a963b849ede4ac546cedf747d70420ca",
+    "revision": "600671b6571131e3ceb3867d59b5847f",
     "url": "/Erez-Efrat-14-07-2020/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b841573e6f93e6fde78b",
-    "url": "/Erez-Efrat-14-07-2020/static/js/main.a73c4af5.chunk.js"
+    "revision": "87f3c28d992f6d7bd9ce",
+    "url": "/Erez-Efrat-14-07-2020/static/js/main.8ec6b7b8.chunk.js"
   },
   {
     "revision": "ffcee6ab58dd777c31ef",
