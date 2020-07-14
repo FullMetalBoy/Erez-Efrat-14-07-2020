@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Erez-Efrat-14-07-2020/static/js/main.a47bfd80.chunk.js",
-    "main.js.map": "/Erez-Efrat-14-07-2020/static/js/main.a47bfd80.chunk.js.map",
+    "main.js": "/Erez-Efrat-14-07-2020/static/js/main.a73c4af5.chunk.js",
+    "main.js.map": "/Erez-Efrat-14-07-2020/static/js/main.a73c4af5.chunk.js.map",
     "runtime-main.js": "/Erez-Efrat-14-07-2020/static/js/runtime-main.d7fff784.js",
     "runtime-main.js.map": "/Erez-Efrat-14-07-2020/static/js/runtime-main.d7fff784.js.map",
     "static/js/2.b5b9337b.chunk.js": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js",
     "static/js/2.b5b9337b.chunk.js.map": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js.map",
     "index.html": "/Erez-Efrat-14-07-2020/index.html",
-    "precache-manifest.519dab68f6620128063b18cacf74a35a.js": "/Erez-Efrat-14-07-2020/precache-manifest.519dab68f6620128063b18cacf74a35a.js",
+    "precache-manifest.4dbd28f0b441820460619e795f4f09c3.js": "/Erez-Efrat-14-07-2020/precache-manifest.4dbd28f0b441820460619e795f4f09c3.js",
     "service-worker.js": "/Erez-Efrat-14-07-2020/service-worker.js",
     "static/js/2.b5b9337b.chunk.js.LICENSE.txt": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7fff784.js",
     "static/js/2.b5b9337b.chunk.js",
-    "static/js/main.a47bfd80.chunk.js"
+    "static/js/main.a73c4af5.chunk.js"
   ]
 }
