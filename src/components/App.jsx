@@ -11,8 +11,12 @@ const App = () => {
       <Router history={history}>
         <div>
           <Switch>
-            <Route path="/list" exact component={List} />
-            <Route path="/received" exact component={Received} />
+            <Route path="/Erez-Efrat-14-07-2020/list" exact component={List} />
+            <Route
+              path="/Erez-Efrat-14-07-2020/received"
+              exact
+              component={Received}
+            />
           </Switch>
         </div>
       </Router>
