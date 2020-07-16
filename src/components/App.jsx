@@ -17,12 +17,11 @@ const renderExchangeError = () => {
 
 const App = ({ fetchRate, exchangeRate }) => {
   const exchangeServiceError = isNaN(exchangeRate) ? renderExchangeError() : '';
-
   useEffect(() => {
     fetchRate();
     const interval = setInterval(() => {
       fetchRate();
-    }, 10 * 1000);
+    }, parseInt(process.env.REACT_APP_FETCH_RATE_INTERVAL));
 
     return () => {
       clearInterval(interval);

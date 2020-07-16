@@ -26,7 +26,7 @@ export default (state = INITIAL_STATE, action) => {
     case ADD_ITEM:
       return [...state, action.payload];
     case RECEIVE_ITEM:
-      return state.filter(item => item.name != action.payload.name);
+      return state.filter(item => item.name !== action.payload.name);
     default:
       return state;
   }
