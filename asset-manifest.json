@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/Erez-Efrat-14-07-2020/static/js/main.58f44104.chunk.js",
-    "main.js.map": "/Erez-Efrat-14-07-2020/static/js/main.58f44104.chunk.js.map",
+    "main.js": "/Erez-Efrat-14-07-2020/static/js/main.dface30c.chunk.js",
+    "main.js.map": "/Erez-Efrat-14-07-2020/static/js/main.dface30c.chunk.js.map",
     "runtime-main.js": "/Erez-Efrat-14-07-2020/static/js/runtime-main.d7fff784.js",
     "runtime-main.js.map": "/Erez-Efrat-14-07-2020/static/js/runtime-main.d7fff784.js.map",
-    "static/js/2.b5b9337b.chunk.js": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js",
-    "static/js/2.b5b9337b.chunk.js.map": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js.map",
+    "static/css/2.d98961f1.chunk.css": "/Erez-Efrat-14-07-2020/static/css/2.d98961f1.chunk.css",
+    "static/js/2.54e8067d.chunk.js": "/Erez-Efrat-14-07-2020/static/js/2.54e8067d.chunk.js",
+    "static/js/2.54e8067d.chunk.js.map": "/Erez-Efrat-14-07-2020/static/js/2.54e8067d.chunk.js.map",
     "index.html": "/Erez-Efrat-14-07-2020/index.html",
-    "precache-manifest.ad933e37666b6865d7f5d9fa78adaa9c.js": "/Erez-Efrat-14-07-2020/precache-manifest.ad933e37666b6865d7f5d9fa78adaa9c.js",
+    "precache-manifest.de2ea082bf7a0b7efad83e50bcfde15b.js": "/Erez-Efrat-14-07-2020/precache-manifest.de2ea082bf7a0b7efad83e50bcfde15b.js",
     "service-worker.js": "/Erez-Efrat-14-07-2020/service-worker.js",
-    "static/js/2.b5b9337b.chunk.js.LICENSE.txt": "/Erez-Efrat-14-07-2020/static/js/2.b5b9337b.chunk.js.LICENSE.txt"
+    "static/css/2.d98961f1.chunk.css.map": "/Erez-Efrat-14-07-2020/static/css/2.d98961f1.chunk.css.map",
+    "static/js/2.54e8067d.chunk.js.LICENSE.txt": "/Erez-Efrat-14-07-2020/static/js/2.54e8067d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7fff784.js",
-    "static/js/2.b5b9337b.chunk.js",
-    "static/js/main.58f44104.chunk.js"
+    "static/css/2.d98961f1.chunk.css",
+    "static/js/2.54e8067d.chunk.js",
+    "static/js/main.dface30c.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Erez-Efrat-14-07-2020/precache-manifest.ad933e37666b6865d7f5d9fa78adaa9c.js"
+  "/Erez-Efrat-14-07-2020/precache-manifest.de2ea082bf7a0b7efad83e50bcfde15b.js"
 );
 
 self.addEventListener('message', (event) => {
